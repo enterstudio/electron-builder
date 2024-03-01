@@ -28,7 +28,7 @@
   "////": "All typings are added into root `package.json` to avoid duplication errors in the IDE compiler (several `node.d.ts` files).",
   "dependencies": {
     "7zip-bin": "^2.2.3",
-    "archiver": "^2.0.3",
+    "archiver": "^7.0.0",
     "async-exit-hook": "^2.0.1",
     "aws-sdk": "^2.110.0",
     "bluebird-lst": "^1.0.3",
